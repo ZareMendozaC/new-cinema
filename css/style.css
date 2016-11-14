@@ -19,6 +19,11 @@ body{
     margin-top: 47px;
     color:#BDBDBD;
 }
+.icono{
+	margin-top: 217px;
+    margin-left: 244px;
+    width: 10%;
+}
 .estrenos img{
 	width: 100%;
 }
@@ -69,20 +74,30 @@ table{
 .amarillo{
 	background-color: #FACC2E;
 	margin-top: 20px;
+	border:1px solid #FACC2E;
 }
 
 .naranja{
 	background-color: #FE9A2E;
 	margin-top: 12px;
 	margin-bottom: 25px;
+	border:1px solid #FE9A2E;
 }
 .estrenos{
 	background-color: #FACC2E;
 	margin-left: 63px;
     margin-right: 49px;
+    padding-bottom: 20px;
+    margin-bottom: -15px;
+}
+
+.trailer{
+	margin-left: 63px;
+    margin-right: 49px;
 }
 .estrenos img{
 	margin-top: 20px;
+
 	width: 149px;
 	height: 213px;
 }
@@ -114,6 +129,7 @@ small{
 	border-radius: 7px;
 	margin-bottom: 17px;
 	font-size: 13px;
+	border:1px solid #B45F04;
 }
 .cartelera img{
 	margin-top:40px;
